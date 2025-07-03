@@ -3,12 +3,10 @@
 </p>
 
 ---
-<img align="right" height="180" alt="me-fr GIF" src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" />
-
-###  Diploma in Information Technology  
-###  Exploring new stacks and modern tools
-###  Building cool things, 
-#####  And trying not to break them after
+<img align="right" height="140" alt="me-fr GIF" src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" />
+<h4>A student</h4>
+<h4>Exploring new stacks and modern tools</h4>
+<h4>Building cool things, and trying not to break them after</h4>
 
 <br>
 <br>
