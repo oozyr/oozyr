@@ -8,7 +8,7 @@
 ###  Diploma in Information Technology  
 ###  Exploring new stacks and modern tools
 ###  Building cool things, 
-###  And Trying not to break them after
+#####  And trying not to break them after
 
 <br>
 <br>
