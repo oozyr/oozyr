@@ -1,16 +1,27 @@
-
-<div align="right">
-  <img src="https://github.com/oozyr/oozyr/assets/me-fr.gif?raw=true" width="400" alt="Silver Surfer GIF" />
-</div>
-
-
-<br />
-
-<h1 align="center">Hey, I'm Juani Uzayr 🛸</h1>
 <p align="center">
-  Just getting started with GitHub and open source.  
-  Learning new stacks, building cool stuff, and trying not to break production.  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&width=400&lines=Hey%2C+I'm+Juani+Uzayr+%F0%9F%9B%B8" alt="Typing heading" />
 </p>
+
+<table align="center">
+  <tr>
+    <td align="left" width="55%" valign="top">
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=16&duration=800&pause=800&color=9AFFEF&width=500&lines=Diploma+in+IT." alt="Typing Line 2" />
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=16&duration=800&pause=800&color=9AFFEF&width=500&lines=Learning+new+stacks%2C+building+cool+stuff." alt="Typing Line 3" />
+      </p>
+      <p>
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Mono&size=16&duration=800&pause=800&color=9AFFEF&width=500&lines=Trying+not+to+break+it+after+%F0%9F%98%85" alt="Typing Line 4" />
+      </p>
+    </td>
+    <td align="right" width="45%" valign="top">
+      <img src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" width="300" alt="me-fr GIF" />
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
@@ -60,4 +71,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juaniuzayr&label=Profile%20views&color=0e75b6&style=flat" alt="juaniuzayr" /> </p>
 
-[oozyr](https://github.com/oozyr)
+[click to get blessed](https://github.com/oozyr)
