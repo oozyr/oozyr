@@ -39,7 +39,7 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 ---
 
 <h3 align="left">#### My Github Stats</h3>
-![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr&show_icons=true&theme=radical)
+[![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
