@@ -1,12 +1,15 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Hi there! I'm Juani Uzayr 👋
+<div align="center">
+  <img src="https://media.tenor.com/wtXY8Yj2kzIAAAAC/silver-surfer.gif" width="400" alt="Silver Surfer GIF" />
+</div>
 
-I’m just getting started with GitHub and exploring how developers build and share awesome projects.  
-Right now, I’m learning and experimenting with different tech stacks — both backend and frontend.  
-This is where I’ll be documenting my growth as a developer, one commit at a time.
+<br />
 
-<img align="right" alt="GIF" src="https://tenor.com/view/silver-surfer-gif-18667163" />
+<h1 align="center">Hey, I'm Juani Uzayr 🛸</h1>
+<p align="center">
+  Just getting started with GitHub and open source.  
+  Learning new stacks, building cool stuff, and trying not to break production.  
+</p>
 
 ---
 
@@ -20,40 +23,40 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 
 <h3 align="left">Languages & Tools I'm exploring:</h3>
 
-**Backend:**  
-![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![Laravel](https://skillicons.dev/icons?i=laravel)
+**Backend**  
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![c++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-**Frontend:**  
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+**Frontend**  
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-**DevOps & Tools:**  
-![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode)
+**DevOps & Tools**  
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![vscode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-**Operating Systems:**  
-![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux)
-
+**OS**  
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
+<!-- 
 <h3 align="left">My Github Stats</h3>
 
 ![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr&show_icons=true&theme=radical)
 
 ---
-
-<h3 align="left">Let’s connect:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/juani-uzayr-jofizal-40898123a/" target="_blank">
-    <i class="devicon-linkedin-plain colored" style="font-size: 40px; margin-right: 10px;"></i>
-  </a>
-  <a href="https://discord.com/users/813202103459119134" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="40" height="40" style="margin-top: -5px;" />
-  </a>
-</p>
-
-
----
+!-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juaniuzayr&label=Profile%20views&color=0e75b6&style=flat" alt="juaniuzayr" /> </p>
-[juaniuzayr](https://github.com/juaniuzayr)  
-🗓️ Updated: 03/07/2025
+
+[oozyr](https://github.com/oozyr)
