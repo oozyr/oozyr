@@ -6,9 +6,9 @@
 <img align="right" height="180" alt="me-fr GIF" src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" />
 
 ###  Diploma in Information Technology  
-###  Exploring new stacks and modern tools  
-###  Building cool things  
-###  Trying not to break production
+###  Exploring new stacks and modern tools
+###  Building cool things, 
+###  And Trying not to break them after
 
 <br>
 <br>
