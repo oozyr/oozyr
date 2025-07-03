@@ -1,7 +1,8 @@
 
-<div align="center">
-  <img src="https://media.tenor.com/wtXY8Yj2kzIAAAAC/silver-surfer.gif" width="400" alt="Silver Surfer GIF" />
+<div align="right">
+  <img src="https://github.com/oozyr/oozyr/assets/me-fr.gif?raw=true" width="400" alt="Silver Surfer GIF" />
 </div>
+
 
 <br />
 
