@@ -8,10 +8,16 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 
 ---
 
-<h3 align="left">🕹️ Just for fun: My name in pixel-style!</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/juaniuzayr/juaniuzayr/main/juani_contribution_art.png" alt="JUANI Contribution Art" />
-</p>
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<hr>
 
 ---
 
@@ -37,15 +43,18 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 
 ---
 
-<h3 align="left">Let’s connect:</h3>
-<p align="left">
-<a href="https://twitter.com/juaniofficial_" target="blank"><i class="devicon-twitter-original" style="font-size: 40px;"></i></a>
-<a href="https://www.linkedin.com/in/juaniuzayr/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size: 40px;"></i></a>
-</p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juaniuzayr&label=Profile%20views&color=0e75b6&style=flat" alt="juaniuzayr" /> </p>
+<h3 align="left">#### My Github Stats</h3>
+![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr&show_icons=true&theme=radical)
 
 ---
 
+<h3 align="left">Let’s connect:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/juani-uzayr-jofizal-40898123a/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size: 40px;"></i></a>
+</p>
+
+---
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juaniuzayr&label=Profile%20views&color=0e75b6&style=flat" alt="juaniuzayr" /> </p>
 [juaniuzayr](https://github.com/juaniuzayr)  
 🗓️ Updated: 03/07/2025
