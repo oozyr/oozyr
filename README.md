@@ -6,6 +6,8 @@ I’m just getting started with GitHub and exploring how developers build and sh
 Right now, I’m learning and experimenting with different tech stacks — both backend and frontend.  
 This is where I’ll be documenting my growth as a developer, one commit at a time.
 
+<img align="right" alt="GIF" src="https://tenor.com/view/silver-surfer-gif-18667163" />
+
 ---
 
 <picture>
@@ -17,36 +19,38 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 ---
 
 <h3 align="left">Languages & Tools I'm exploring:</h3>
-<table>
-    <tr>
-        <td style="font-weight: bold;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=php,java,cs,python,nodejs,spring,laravel"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,bootstrap"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">DevOps & Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,git,vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu"/></td>
-    </tr>
-</table>
+
+**Backend:**  
+![PHP](https://skillicons.dev/icons?i=php) ![Java](https://skillicons.dev/icons?i=java) ![C#](https://skillicons.dev/icons?i=cs) ![Python](https://skillicons.dev/icons?i=python) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Spring](https://skillicons.dev/icons?i=spring) ![Laravel](https://skillicons.dev/icons?i=laravel)
+
+**Frontend:**  
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+
+**DevOps & Tools:**  
+![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode)
+
+**Operating Systems:**  
+![Windows](https://skillicons.dev/icons?i=windows) ![Linux](https://skillicons.dev/icons?i=linux)
+
 
 ---
 
-<h3 align="left">#### My Github Stats</h3>
-[![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">My Github Stats</h3>
+
+![oozyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=oozyr&show_icons=true&theme=radical)
 
 ---
 
 <h3 align="left">Let’s connect:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/juani-uzayr-jofizal-40898123a/" target="blank"><i class="devicon-linkedin-plain colored" style="font-size: 40px;"></i></a>
+  <a href="https://www.linkedin.com/in/juani-uzayr-jofizal-40898123a/" target="_blank">
+    <i class="devicon-linkedin-plain colored" style="font-size: 40px; margin-right: 10px;"></i>
+  </a>
+  <a href="https://discord.com/users/813202103459119134" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="40" height="40" style="margin-top: -5px;" />
+  </a>
 </p>
+
 
 ---
 
