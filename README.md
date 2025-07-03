@@ -8,16 +8,11 @@ This is where I’ll be documenting my growth as a developer, one commit at a ti
 
 ---
 
-<hr>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
 </picture>
-
-
-<hr>
 
 ---
 
