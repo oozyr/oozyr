@@ -4,9 +4,9 @@
 
 ---
 <img align="right" height="140" alt="me-fr GIF" src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" />
-<h4>A student</h4>
-<h4>Exploring new stacks and modern tools</h4>
-<h4>Building cool things, and trying not to break them after</h4>
+**A student**
+**Exploring new stacks and modern tools**
+**Building cool things, and trying not to break them after**
 
 <br>
 <br>
