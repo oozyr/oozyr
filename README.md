@@ -4,9 +4,9 @@
 
 ---
 <img align="right" height="140" alt="me-fr GIF" src="https://github.com/oozyr/oozyr/blob/main/assets/me-fr.gif?raw=true" />
-**A student**  
-**Exploring new stacks and modern tools**  
-**Building cool things, and trying not to break them after**
+**A student**  <br />
+**Exploring new stacks and modern tools**  <br />
+**Building cool things, and trying not to break them after**  <br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
