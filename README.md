@@ -8,6 +8,9 @@
 <h3>Exploring new stacks and modern tools</h3>
 <h3>Building cool things, and trying not to break them after</h3>
 
+<br>
+<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chanzaa/Chanzaa/output/pacman-contribution-graph.svg">
