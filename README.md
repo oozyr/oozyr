@@ -29,6 +29,7 @@ I design automated infrastructure networks, provision containerized microservice
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-167EE6?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
 
 <h3>Languages & Automation Scripting</h3>
 
@@ -37,6 +38,36 @@ I design automated infrastructure networks, provision containerized microservice
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+
+---
+
+### 🚀 Projects & Certifications
+
+<h3>Homelab Infrastructure</h3>
+
+Self-hosted, multi-build homelab running a full containerized stack behind CGNAT, using zero-trust tunneling for remote access instead of port forwarding.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-FF500F?style=for-the-badge&logo=tailscale&logoColor=white)
+![Cloudflare Tunnel](https://img.shields.io/badge/Cloudflare%20Tunnel-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+<h3>CutMyHair — Barber Booking App</h3>
+
+Backend developer and team lead on a Firebase-based barber booking app for my Diploma Final Year Project.
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+<h3>Certifications</h3>
+
+Building toward AWS Solutions Architect Associate, starting with foundational certifications.
+
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white)
+![Amazon DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Docker Foundations](https://img.shields.io/badge/Docker%20Foundations-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
